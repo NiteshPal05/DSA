@@ -12,6 +12,8 @@ int main()
       for(int j=0;j<n-i;j++)
       {
         cout<<(i+1);//2nd inner loop
+        // space makes pyramid  
+           // cout<<i+1<<" ";
       }
       cout<<endl;
     }

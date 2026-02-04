@@ -5,7 +5,7 @@ vector<int> productexceptitself(vector<int>vec)//time complexity = O(3n)-> 3 is 
                                                
 {
     int size = vec.size();
-    vector<int>ans(size,1);// space complexity should also br optimised 
+    vector<int>ans(size,1);// space complexity should also be optimised 
     vector<int>preffix(size,1);
     vector<int>suffix(size,1);
     for(int i=1;i<size;i++)

@@ -4,7 +4,7 @@ int main()
 {
     while(1)
     {
-        cout<<"sorry vaani jii"<<" "<<endl;
+        cout<<"hii my name is nitesh"<<" "<<endl;
     }
     cout<<endl;
 }

@@ -26,7 +26,7 @@ void check(int n)
 }
 int main()
 {
-    check(2);
+    check(9);
     check(5);
     check(1);
     check(4);

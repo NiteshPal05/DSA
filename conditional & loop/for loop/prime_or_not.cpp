@@ -28,12 +28,5 @@ int main()
             cout<<"prime";
         }
         
-    }
-    
-    
-    
-    
-    
-    
-    
+    }    
 }

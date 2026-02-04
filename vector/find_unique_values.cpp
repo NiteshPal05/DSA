@@ -26,11 +26,13 @@ int main()
     int size;
     cout<<"enter size of the vector: ";
     cin>>size;
-    vector<int>num(size);
+    vector<int>num;
     cout<<"enter elements: ";
+    int n;
     for(int i=0;i<size;i++)
     {
-      cin>>num[i];
+      cin>>n;
+      num.push_back(n);
     }
     cout<<"your elements are: ";
     for(int val:num)
